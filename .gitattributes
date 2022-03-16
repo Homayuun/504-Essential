@@ -1,0 +1,2 @@
+504[[:space:]]flashcards[[:space:]]1.0.1[[:space:]]copy[[:space:]]2.zip filter=lfs diff=lfs merge=lfs -text
+.zip filter=lfs diff=lfs merge=lfs -text

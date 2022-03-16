@@ -12,6 +12,6 @@ A search tab which allows you to find the words and utter it in a table view.<br
 
 # Usage
 
-1. Download zip file <br/>
+1. Download "essential.zip"  <br/>
 2. locate 504 Essentials in navigator tab / targets / GitGo+ / Signing & Capabilities / All / Change "Team" <br/>
 3. Run the App <br/>
